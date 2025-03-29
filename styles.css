@@ -1,0 +1,27 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.color-box {
+    height: 200px;
+    width: 200px;
+  }
+.color1{
+    background-color: #ff3333;
+}
+
+.color2 {
+    background-color: rgb(122, 255, 51);
+}
+
+.color3 {
+    background-color: chocolate;
+}
+
+.color4 {
+    background-color: hsl(139, 80%, 60%);
+}
+
+.color5 {
+    background-color: aqua;
+}
